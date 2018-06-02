@@ -1,3 +1,3 @@
 "hello world"
 
-hello_world
+defineVar = hello_world
